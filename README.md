@@ -4,3 +4,6 @@
 
 -Elite Car name? <br>
 -Sinnamon
+
+## Food for Thought:
+![](meme_hot_take.jpg)
