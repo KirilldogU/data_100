@@ -4,7 +4,9 @@
 
 #### First Challenge:<br>
 ##### [Speedy Bacteria Challenge](Challenge1.md)
-
+<br><br>
+### Projects:
+##### [Project #1](Project1.md)
 
 
 ## Food for Thought:
