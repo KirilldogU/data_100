@@ -9,11 +9,11 @@
 
 ### Reflections:<br>
 ##### [Reflection1](Reflection1.md)
+<br>
 
-
-### Challenges
+### Challenges: <br>
 ##### [Speedy Bacteria Challenge](Challenge1.md)
-
+<br>
 
 ## Food for Thought:
 ![](meme_hot_take.jpg)
