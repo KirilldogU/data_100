@@ -10,4 +10,4 @@
 ![](Georgia.png)
 
 ### Stretch Goal #1:
-![](Imeriti.png)
+![](Imereti.png)
