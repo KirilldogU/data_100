@@ -6,6 +6,7 @@
 ### Projects:
 ##### [Project #1](Project1.md)
 ##### [Project #2](Project2.md)
+##### [Project #3](Project3.md)
 
 
 ### Reflections:<br>
