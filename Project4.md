@@ -6,12 +6,12 @@
 
 ## Country - Georgia
 
-##### Population Density vs Log of Population (divided by country regions)
-![](3_1_density_v_logpop.png)
+#### Plot Depicting the Difference between Predicted Values and the Actual Data
+##### Data shows that the model significantly overestimates population values (in green) everywhere but in a few urban centers, where there is actually some underestimation (dark colors).
+![](4_1_total_diff.png)
 <br>
-##### Population Density vs Night Time Lights (divided by country regions)
-![](3_1_density_v_ntl.png)
+#### Plots Depicting the Difference between Predicted Values and Population Data in Largest Urban Center (Tbilisi)
+##### Data shows that the model underestimates the population for a significant portion of the urban centers, likely because it generally averages population with the rest of the country and more evenly distributes the population. 
+![](4_1_urban_diff.png)
 <br>
-##### Population Density vs Water (divided by country regions)
-![](3_1_density_v_water.png)
-<br>
+![](4_1_urban_map_diff.png)
