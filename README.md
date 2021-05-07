@@ -10,7 +10,6 @@
 ##### [Project #4](Project4.md)
 ##### [Project #5](Project5.md)
 
-<br>
 ### Reflections:<br>
 ##### [Reflection #1](Reflection1.md)
 ##### [Reflection #2](Reflection2.md)
