@@ -11,15 +11,14 @@
 #### Plot Depicting Marneuli Population as Points (Planar Point Pattern)
 ![](Marneuli_ppp.png)
 <br>
-### Creation of a model which divided Marneuli into subpolygons (urban/rural areas) based on population density
-<br>
+### Creation of a model which divided Marneuli into subpolygons (urban/rural areas) based on population density<br>
 #### Marneuli Initial Subpolys
 ![](subpolys.png)
 <br>
 #### Marneuli Filtered Subpolys
 ![](subpolys_filtered.png)
 <br>
-### Creation of urban area graphs based on joining of subpolygons and pop density scale.
+### Creation of urban area graphs based on joining of subpolygons and pop density scale.<br>
 #### Marneuli Base Urban Areas
 ![](Marneuli_urban_areas.png)
 <br>
